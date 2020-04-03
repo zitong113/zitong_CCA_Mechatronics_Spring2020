@@ -4,5 +4,8 @@
 
 
 ## midterm project YouTube link
+
 https://www.youtube.com/watch?v=sNnZjRjIlDk
+
+This Arduino car project was completed with my partner Timon, who was responsible for the electrical connection and assembly of the car.
 
